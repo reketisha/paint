@@ -1,0 +1,15 @@
+C:\Users\chern\Source\Repos\Paint.Da\Paint.Da\bin\Debug\Paint.Da.exe.config
+C:\Users\chern\Source\Repos\Paint.Da\Paint.Da\bin\Debug\Paint.Da.exe
+C:\Users\chern\Source\Repos\Paint.Da\Paint.Da\bin\Debug\Paint.Da.pdb
+C:\Users\chern\Source\Repos\Paint.Da\Paint.Da\obj\Debug\Paint.Da.csproj.AssemblyReference.cache
+C:\Users\chern\Source\Repos\Paint.Da\Paint.Da\obj\Debug\Paint.Da.csproj.SuggestedBindingRedirects.cache
+C:\Users\chern\Source\Repos\Paint.Da\Paint.Da\obj\Debug\MainWindow.baml
+C:\Users\chern\Source\Repos\Paint.Da\Paint.Da\obj\Debug\MainWindow.g.cs
+C:\Users\chern\Source\Repos\Paint.Da\Paint.Da\obj\Debug\App.g.cs
+C:\Users\chern\Source\Repos\Paint.Da\Paint.Da\obj\Debug\Paint.Da_MarkupCompile.cache
+C:\Users\chern\Source\Repos\Paint.Da\Paint.Da\obj\Debug\Paint.Da.g.resources
+C:\Users\chern\Source\Repos\Paint.Da\Paint.Da\obj\Debug\Paint.Da.Properties.Resources.resources
+C:\Users\chern\Source\Repos\Paint.Da\Paint.Da\obj\Debug\Paint.Da.csproj.GenerateResource.cache
+C:\Users\chern\Source\Repos\Paint.Da\Paint.Da\obj\Debug\Paint.Da.csproj.CoreCompileInputs.cache
+C:\Users\chern\Source\Repos\Paint.Da\Paint.Da\obj\Debug\Paint.Da.exe
+C:\Users\chern\Source\Repos\Paint.Da\Paint.Da\obj\Debug\Paint.Da.pdb
